@@ -21,4 +21,5 @@ build/
 
 main.c
 CMakeLists.txt
+cmake-build-debug/
 *.gch
