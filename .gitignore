@@ -15,4 +15,10 @@
 *.dSYM/
 *.zip
 bin/
+build/
+.idea/
 .vscode
+
+main.c
+CMakeLists.txt
+*.gch
